@@ -32,10 +32,10 @@ Section: Tweaks
 Maintainer: Chloeeisoaky <test@e-mail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.chloeeisoaky.clotus
+Filename: ./debs/com.chloeeisoaky.clotus.deb
 Size: 2988442
-MD5sum: 
+MD5sum: 3830c36a48a4787c626c1749d09c667b
 Description: Clotus
 Name: Clotus
 Author: Chloeeisoaky <test@e-mail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://chloeeisoaky-repo.github.io/repo/depictions/?p=com.chloeeisoaky.clotus
